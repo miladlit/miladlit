@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Milad
 
-<!--
-**miladlit/miladlit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps student based in Stockholm, focused on Linux, automation, cloud, CI/CD, containers, networking and infrastructure.
 
-Here are some ideas to get you started:
+## Currently working with
+- Linux and Bash
+- Git and GitHub
+- Docker
+- CI/CD
+- Azure
+- Jenkins
+- Networking
+- Python
+- Windows Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **SaunaBoys** — virtual datacenter with Linux, Windows Server, Active Directory, DNS, DHCP, HTTPS, Kerberos, WireGuard and firewalling
+- **DevOps Lab** — hands-on DevOps practice with Linux, Git, Docker, CI/CD and cloud technologies
+- **DBMS Project** — database project from my studies
+
+## What I'm looking for
+I'm currently looking for a DevOps LIA internship where I can contribute, learn from experienced engineers and work with real infrastructure and automation.
+
+## Focus
+I enjoy learning by building, troubleshooting and improving real systems rather than only studying theory.
